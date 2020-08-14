@@ -1,0 +1,59 @@
+/* 
+ * Frontend with react
+ ----------------------------------*/
+https://www.youtube.com/watch?v=ZzSOIstLYhQ 
+https://reactrouter.com/web/guides/quick-start
+https://www.toptal.com/react/tdd-react-user-stories-to-development
+https://www.9lessons.info/2017/10/reactjs-php-restful-api-token.html
+
+https://reactjs.org/docs/conditional-rendering.html
+https://www.robinwieruch.de/react-pass-props-to-component
+https://www.toptal.com/react/testing-react-hooks-tutorial
+https://www.toptal.com/react-hooks/stale-while-revalidate
+https://www.toptal.com/javascript/functional-programming-javascript
+https://dev.to/mychal/protected-routes-with-react-function-components-dh
+https://medium.com/javascript-in-plain-english/how-to-set-up-protected-routes-in-your-react-application-a3254deda380
+https://blog.netcetera.com/how-to-create-guarded-routes-for-your-react-app-d2fe7c7b6122
+https://www.pluralsight.com/guides/how-to-pass-props-object-from-child-component-to-parent-component
+https://www.pluralsight.com/guides/how-to-display-key-and-value-pairs-from-json-in-reactjs
+https://www.pluralsight.com/guides/how-to-router-redirect-after-login
+https://laravel-news.com/using-sanctum-to-authenticate-a-react-spa
+https://medium.com/graymatrix/consuming-laravel-api-in-react-b08c36acf5a9
+
+redirect route >> https://stackoverflow.com/questions/43230194/how-to-use-redirect-in-the-new-react-router-dom-of-reactjs
+                  https://reactrouter.com/web/api/Redirect
+
+//fetch with authorization header
+https://stackoverflow.com/questions/56984796/by-passing-authentication-laravel-api-at-middleware-group-for-testing-purposes-a 
+//Hooks
+https://reactjs.org/docs/hooks-effect.html
+
+//State and Lifecycle
+https://reactjs.org/docs/state-and-lifecycle.html
+
+// Localstorage
+https://www.robinwieruch.de/local-storage-react
+
+//Authentication with jwt
+https://bezkoder.com/react-jwt-auth/
+
+
+
+
+/*
+ * Backend API
+------------------------------------------------*/
+https://www.toptal.com/laravel/passport-tutorial-auth-user-access
+https://medium.com/modulr/create-api-rest-with-laravel-7-passport-authentication-part-1-a8198e5d0a9
+
+step >> 1 https://medium.com/modulr/create-api-authentication-with-passport-of-laravel-5-6-1dc2d400a7f
+step >> 2 https://medium.com/modulr/create-api-authentication-passport-in-laravel-5-6-confirm-account-notifications-part-2-5e221b021f07
+step >> 3 https://medium.com/modulr/api-rest-with-laravel-5-6-passport-authentication-generate-avatar-part-3-d92ec7935eff
+step >> 4 https://medium.com/modulr/api-rest-with-laravel-5-6-passport-authentication-reset-password-part-4-50d27455dcca
+step >> 51 https://medium.com/modulr/api-rest-with-laravel-5-6-175eea5db3e8
+
+https://github.com/thedarkkid/laravel_api_framework 
+https://www.toptal.com/laravel/restful-laravel-api-tutorial
+https://www.twilio.com/blog/build-secure-api-php-laravel-passport
+https://medium.com/techcompose/create-rest-api-in-laravel-with-authentication-using-passport-133a1678a876
+https://medium.com/@panjeh/laravel-get-bearer-token-from-a-request-b1b242277e22
